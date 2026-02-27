@@ -39,12 +39,6 @@ The repository includes a fully working **single-file HTML demo** — no install
 - 🔄 **Hybrid Dominance Shift** — see the sigmoid-based transition from Reflex → Adaptive dominance as the conversation matures
 - 🌙 **Still Layer activation** — go quiet for a few seconds and watch the Echo decay to zero, triggering the Still Layer
 - 🧭 **Conscience Stack levels** — L1 through L5 unlock progressively as the conversation deepens
-
-### Screenshot
-
-![Reflex Core Demo](screenshot.png)
-*(Add a screenshot of your demo here)*
-
 ---
 
 ## 🏗️ The Architecture
